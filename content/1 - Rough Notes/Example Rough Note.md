@@ -1,1 +1,0 @@
-Here you can write things that are not structured and can be edited in the future to create one or more Atomic Notes out of it
